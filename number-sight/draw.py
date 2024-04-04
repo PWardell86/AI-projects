@@ -2,7 +2,6 @@ from tkinter import Tk, Canvas, Button, Label, Entry
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
-from parse_training_data import parse_line
 
 # Define grid dimensions (change these for a different size)
 width = 16
